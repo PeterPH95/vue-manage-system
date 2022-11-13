@@ -1,0 +1,26 @@
+{
+    "common": {
+        "s-background": "后台",
+        "background": "后台管理系统",
+        "sign-in": "系统登录",
+        "login": "登录",
+        "personal": "个人中心",
+        "exit": "退出"
+    },
+    "sys": {
+        "home": "首页",
+        "mall": "商品管理",
+        "user": "用户管理",
+        "more": "其他",
+        "page1": "页面一",
+        "page2": "页面二"
+    },
+    "user": {
+        "search": "搜索",
+        "add": "+新增",
+        "edit": "编辑",
+        "delete": "删除",
+        "confirm": "确认",
+        "cancle": "取消"
+    }
+}

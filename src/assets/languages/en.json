@@ -1,0 +1,26 @@
+{
+    "common": {
+        "s-background": "M-S",
+        "background": "Manage System",
+        "sign-in": "Sign in Manage System",
+        "login": "Sign in",
+        "personal": "Personal",
+        "exit": "Exit"
+    },
+    "sys": {
+        "home": "Home",
+        "mall": "Mall Manage",
+        "user": "User Manage",
+        "more": "More",
+        "page1": "Page One",
+        "page2": "Page Two"
+    },
+    "user": {
+        "search": "Search",
+        "add": "+Add",
+        "edit": "Edit",
+        "delete": "Delete",
+        "confirm": "Confirm",
+        "cancle": "Cancle"
+    }
+}
